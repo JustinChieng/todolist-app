@@ -74,10 +74,10 @@ if($_POST['action'] === 'delete') {
      display: none;
     }    */
 
-        input[id=cb]:checked~p.strikethrough {
-         text-decoration: line-through;
-        color: black;
-        }
+      input[id=cb]:checked~p.strikethrough {
+      text-decoration: line-through;
+      color: black;
+      }
 
 
     </style>
